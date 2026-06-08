@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nature Gallery</title>
+</head>
+<body>
+
+  <h1>🌿 Nature Gallery</h1>
+  <p>Images help make webpages more attractive and informative. Below are some beautiful nature photographs.</p>
+
+  <h2>Mountain View</h2>
+  <img src="mountain.jpg" alt="Snow-covered mountains" width="400" height="300">
+  <p>Tall mountains offer breathtaking views and attract visitors from around the world.</p>
+
+  <h2>Forest Path</h2>
+  <img src="forest.jpg" alt="A peaceful forest pathway" width="400" height="300">
+  <p>Forests provide fresh air, wildlife habitats, and beautiful scenery.</p>
+
+  <h2>Ocean Sunset</h2>
+  <img src="ocean.jpg" alt="Sunset over the ocean" width="400" height="300">
+  <p>Watching the sunset over the ocean is one of nature's most relaxing experiences.</p>
+
+  <h2>Why Use Images?</h2>
+  <p>The <strong>img</strong> tag allows us to display pictures on a webpage and make content more engaging.</p>
+
+</body>
+</html>
