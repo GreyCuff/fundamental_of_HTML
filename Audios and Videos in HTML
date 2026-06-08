@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Multimedia Magic</title>
+</head>
+<body>
+
+  <h1>🎬 Multimedia Magic</h1>
+  <p>This webpage shows how audio and video can bring a page to life in a fun and engaging way.</p>
+
+  <h2>Listen to the Sound</h2>
+  <p>Use the player below to enjoy the audio clip.</p>
+
+  <audio controls loop>
+    <source src="music.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+
+  <h2>Watch the Visual Story</h2>
+  <p>The video below adds movement and makes the content more exciting to explore.</p>
+
+  <video width="500" height="300" controls loop poster="poster.png">
+    <source src="video.mp4" type="video/mp4">
+    Your browser does not support the video element.
+  </video>
+
+  <h2>Why Use Audio and Video?</h2>
+  <p>The <strong>audio</strong> tag is used for sound files, while the <strong>video</strong> tag is used for moving visuals on a webpage.</p>
+
+</body>
+</html>
