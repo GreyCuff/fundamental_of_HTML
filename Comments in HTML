@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Technology Facts</title>
+</head>
+<body>
+
+  <!-- Main heading of the webpage -->
+  <h1>💻 Amazing Technology Facts</h1>
+
+  <!-- Introduction paragraph -->
+  <p>Technology has transformed the way we live, work, and communicate. Here are some interesting facts about the digital world.</p>
+
+  <!-- Section about the Internet -->
+  <h2>The Internet</h2>
+  <p>More than five billion people around the world use the internet every day for communication, learning, and entertainment.</p>
+
+  <!-- Section about Artificial Intelligence -->
+  <h2>Artificial Intelligence</h2>
+  <p>AI systems can analyze large amounts of data, recognize patterns, and assist people in solving complex problems.</p>
+
+  <!-- Fun fact section -->
+  <h3>Did You Know?</h3>
+  <p>The first computer bug was an actual moth found inside a computer in 1947.</p>
+
+  <!-- Source information -->
+  <h6>Source</h6>
+  <p>Facts compiled from technology and computing history resources.</p>
+
+</body>
+</html>
