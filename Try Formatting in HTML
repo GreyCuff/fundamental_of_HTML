@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Formatting Practice</title>
+</head>
+<body>
+
+  <h1>✨ Formatting Practice</h1>
+  <p>HTML provides several tags that help make text more meaningful and visually distinct.</p>
+
+  <h2>Bold and Strong Text</h2>
+  <p>The <b>African elephant</b> is the largest land animal in the world.</p>
+  <p><strong>Always read instructions carefully</strong> before starting a new task.</p>
+
+  <h2>Italic and Emphasized Text</h2>
+  <p>The scientific name of a sunflower is <i>Helianthus annuus</i>.</p>
+  <p>It is <em>extremely important</em> to stay hydrated during hot weather.</p>
+
+  <h2>Highlighted and Small Text</h2>
+  <p><mark>Recycling helps reduce waste</mark> and protects the environment.</p>
+  <p>The Pacific Ocean covers a vast area of Earth. <small>(largest ocean on the planet)</small></p>
+
+  <h2>Deleted Text Example</h2>
+  <p>The event will take place on <del>Friday</del> Saturday.</p>
+
+  <h2>Superscript and Subscript</h2>
+  <p>The formula for carbon dioxide is CO<sub>2</sub>.</p>
+  <p>The mathematical expression is a<sup>2</sup> + b<sup>2</sup>.</p>
+
+</body>
+</html>
