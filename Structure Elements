@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Did You Know?</title>
+  </head>
+  <body>
+
+    <h1>🌍 Did You Know?</h1>
+    <p>Discover some incredible facts about our universe, nature, and human achievements.</p>
+
+    <h2>🚀 Fact 1: Space is Silent</h2>
+    <p>Outer space is completely silent because there is no atmosphere to carry sound waves from one place to another.</p>
+
+    <h3>Why can't astronauts hear each other directly?</h3>
+    <p>Since sound cannot travel through a vacuum, astronauts must use radio communication systems inside their helmets.</p>
+
+    <h2>🐧 Fact 2: Penguins are Expert Swimmers</h2>
+    <p>Penguins may not be able to fly, but they can swim at impressive speeds and spend much of their lives in the water.</p>
+
+    <h3>How fast can penguins swim?</h3>
+    <p>Some penguin species can reach speeds of up to 36 kilometres per hour while hunting for food.</p>
+
+    <h4>Do all penguins live in Antarctica?</h4>
+    <p>No. Many penguin species live in regions such as South Africa, New Zealand, South America, and the Galápagos Islands.</p>
+
+    <h2>🏔️ Fact 3: Mountains Continue to Grow</h2>
+    <p>Many mountain ranges are still growing today because of the movement and collision of Earth's tectonic plates.</p>
+
+    <h3>Which mountain range grows the fastest?</h3>
+    <p>The Himalayas continue to rise every year as the Indian and Eurasian tectonic plates slowly push against each other.</p>
+
+    <h5>Fun comparison</h5>
+    <p>Human fingernails grow faster than the Himalayas rise, but over millions of years the difference becomes enormous.</p>
+
+    <h6>Source</h6>
+    <p>Facts compiled from scientific studies, geological surveys, and space research organizations.</p>
+
+  </body>
+</html>
