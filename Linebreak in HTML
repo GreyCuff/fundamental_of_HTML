@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Line Break Example</title>
+</head>
+<body>
+
+  <h1>Line Break in HTML</h1>
+  <p>First line<br>Second line<br>Third line</p>
+
+  <h2>Poem Example</h2>
+  <p>
+    Roses are red,<br>
+    Violets are blue,<br>
+    HTML line breaks<br>
+    Help split text in two.
+  </p>
+
+</body>
+</html>
