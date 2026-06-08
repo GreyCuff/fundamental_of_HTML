@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Iframe Showcase</title>
+</head>
+<body>
+
+  <h1>🖼️ Iframe Showcase</h1>
+  <p>This page demonstrates how an iframe can display content from another source directly inside a webpage.</p>
+
+  <h2>Play the Game Inside the Page</h2>
+  <p>Enjoy the interactive game below without opening a separate tab or window.</p>
+
+  <iframe
+    src="https://scratch.mit.edu/projects/60917032/embed"
+    width="500"
+    height="400"
+    allowtransparency="true"
+    frameborder="0"
+    scrolling="no"
+    allowfullscreen>
+  </iframe>
+
+  <h2>Why Use an Iframe?</h2>
+  <p>The <strong>iframe</strong> tag lets us embed videos, games, maps, and other webpages inside our own HTML document.</p>
+
+</body>
+</html>
