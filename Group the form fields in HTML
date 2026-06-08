@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Workshop Registration</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <form>
+      <fieldset>
+        <!-- The fieldset tag is used to group related elements in a form and draws a box around them -->
+        <legend>Workshop Registration:</legend>
+
+        <label>Participant Name:</label>
+        <!-- placeholder attribute can be used to provide extra information about entry to be made -->
+        <input type="text" id="pname" placeholder="Enter your name"><br><br>
+
+        <label>Contact Email:</label>
+        <input type="text" id="contactemail" placeholder="Enter your email"><br><br>
+
+        <label>Preferred Session:</label><br>
+        <input type="radio" id="morning" name="session" value="morning">Morning<br>
+        <input type="radio" id="evening" name="session" value="evening">Evening<br><br>
+
+        <label>Joining Date:</label>
+        <input type="date" id="joindate" name="joindate"><br><br>
+      </fieldset>
+    </form>
+  </body>
+</html>
