@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Student Result Calculator</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <fieldset>
+    <legend><b>Enter Your Scores</b></legend>
+    <form action="/action_page.php"
+      oninput="x.value=(parseInt(s1.value)+parseInt(s2.value)+parseInt(s3.value))/3">
+      
+      <label>Student Name</label><br>
+      <input type="text" id="name"><br><br>
+
+      <label>Enter Scores</label><br>
+      <select name="Subject1" id="subject1">
+        <option value="Maths">Maths</option>
+        <option value="English">English</option>
+        <option value="Science">Science</option>
+      </select>
+      <input type="number" id="s1" name="s1"><br><br>
+
+      <select name="Subject2" id="subject2">
+        <option value="Maths">Maths</option>
+        <option value="English">English</option>
+        <option value="Science">Science</option>
+      </select>
+      <input type="number" id="s2" name="s2"><br><br>
+
+      <select name="Subject3" id="subject3">
+        <option value="Maths">Maths</option>
+        <option value="English">English</option>
+        <option value="Science">Science</option>
+      </select>
+      <input type="number" id="s3" name="s3"><br><br>
+
+      Average: <output name="x" for="s1 s2 s3"></output>
+    </form>
+  </fieldset>
+</body>
+
+</html>
