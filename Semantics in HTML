@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Healthy Living Hub</title>
+</head>
+<body>
+
+  <header>
+    <h1>🌿 Healthy Living Hub</h1>
+    <nav>
+      <a href="#about">About Health</a>
+      <a href="#tips">Daily Tips</a>
+      <a href="#media">Learn More</a>
+    </nav>
+  </header>
+
+  <main>
+
+    <section id="about">
+      <article>
+        <h2>Why Health Matters</h2>
+        <p>Taking care of your body and mind helps you stay active, focused, and full of energy throughout the day.</p>
+        <p>Good habits like exercise, proper sleep, and healthy eating can make a big difference in your life.</p>
+      </article>
+    </section>
+
+    <aside id="tips">
+      <h3>Quick Health Tips</h3>
+      <ul>
+        <li>Drink enough water every day</li>
+        <li>Eat fruits and vegetables regularly</li>
+        <li>Stay active with exercise</li>
+        <li>Sleep well every night</li>
+      </ul>
+    </aside>
+
+    <section id="media">
+      <h2>Watch and Learn</h2>
+      <p>Use the embedded video below to explore more about staying healthy and living better.</p>
+      <iframe
+        src="https://www.youtube.com/embed/KrIPt0fi9vk"
+        width="700"
+        height="400"
+        title="Healthy Living Video"
+        allowfullscreen>
+      </iframe>
+    </section>
+
+  </main>
+
+  <footer>
+    <p>Copyright © 2024 Healthy Living Hub</p>
+  </footer>
+
+</body>
+</html>
